@@ -117,6 +117,3 @@ public class App{
                  result +="9";   
                  break; 
         }
-    }
-    System.out.println(result);
-  }
